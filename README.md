@@ -58,7 +58,6 @@ Learning by building practical products across web development and AI.
 ![Gemini](https://img.shields.io/badge/Gemini_API-222222?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-222222?style=flat-square&logo=claude&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-222222?style=flat-square&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-222222?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-222222?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-222222?style=flat-square)
